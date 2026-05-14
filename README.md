@@ -1,2 +1,2 @@
 # actin-A22-multisite_binding
-Kinetics and thermodynamics from Infrequent Metadynamics
+Kinetics from Infrequent metadynamics and thermodynamics from Funnel metadynamics
